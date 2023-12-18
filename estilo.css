@@ -76,3 +76,47 @@ ul {
     list-style-type: none;
     padding-left: 0;
   }
+
+  .social-buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .social-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+    font-family: 'Poppins', Arial, sans-serif;
+    text-decoration: none;
+  }
+  
+  .social-button:hover {
+    opacity: 0.8;
+  }
+  
+  .instagram {
+    background-color: #C13584;
+  }
+  
+  .facebook {
+    background-color: #1877F2;
+  }
+  
+  .linkedin {
+    background-color: #0077B5;
+  }
+  
+  .github {
+    background-color: #333;
+  }
+  
+  .whatsapp {
+    background-color: #25D366;
+  }
+  
